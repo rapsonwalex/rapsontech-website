@@ -17,10 +17,6 @@ use Illuminate\Support\Facades\Route;
 //     return view('welcome2');
 // });
 
-// Route::get('/xyz', function () {
-//     return view('xyz');
-// });
-
 Route::get('/about', function () {
     return view('about');
 });
