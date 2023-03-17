@@ -12,7 +12,9 @@ public/storage
 public/hot
 
 # Laravel 5 & Lumen specific with changed public path
-public_html/storage
+public_html/article_file_uploads/
+public_html/article_images/
+public_html/article_media
 public_html/hot
 
 storage/*.key
