@@ -13,9 +13,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-// Route::get('/', function () {
-//     return view('welcome2');
-// });
 
 
 
@@ -26,10 +23,6 @@ Route::get('/about', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
-
-// Route::get('/faq', function () {
-//     return view('faq');
-// });
 
 https://akinalaw.com/read_full_post/11
 
