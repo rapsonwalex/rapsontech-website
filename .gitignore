@@ -6,6 +6,7 @@
 /public/article_media
 /public/article_images
 /public/article_file_uploads
+/.vscode
 .env
 .phpunit.result.cache
 Homestead.json
